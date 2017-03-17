@@ -1,0 +1,70 @@
+<!Doctype html >
+<html>
+
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no">
+	<title>curriculum vitae</title>
+	</head>
+	<svg width="150" height="150">  <!--xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"
+ Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur stdDeviation="2.7"/>
+  </filter>
+  <pattern height="100" width="100" y="0" x="0" patternUnits="userSpaceOnUse" id="gridpattern">
+   <image height="100" width="100" y="0" x="0"/>
+  </pattern>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path filter="url(#svg_1_blur)" fill="#a571dd" stroke="#aa9e9e" stroke-width="5" d="m36.82,102.46313l42.28572,-74l42.28572,74l-84.57143,0l-0.00001,0z" id="svg_1" transform="rotate(58.85890197753906 79.10572052001955,65.463134765625) "/>
+  <path id="svg_2" filter="url(#svg_1_blur)" fill="#a571dd" stroke="#aa9e9e" stroke-width="5" d="m37.82,114.46313l42.28572,-74l42.28572,74l-84.57143,0l-0.00001,0z" transform="rotate(-62.68280029296875 80.10572052001956,77.46313476562501) "/>
+  <text stroke="#aa9e9e" transform="matrix(6.541125774383545,0,0,1,-684.3290331363678,0) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_3" y="92" x="118" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000"/>
+  <text stroke="#aa9e9e" font-style="italic" transform="rotate(29.4552001953125 72.74994659423832,75.87638092041014) matrix(0.9636997350464112,0,0,0.7306203212598487,-13.305425404497445,8.430995077986992) " xml:space="preserve" text-anchor="middle" font-family="Cursive" font-size="24" id="svg_5" y="101.226138" x="89" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">L.A.L</text>
+ </g>
+</svg>
+<body>
+	<header>
+
+	
+		<h1> CURRICULUM VITAE</h1>
+	</header>
+	
+	<h2>LUCIANO ANDRES LOPEZ</h2>
+
+	<h3>Fecha de Nacimento: 08/03/1991</h3>
+	<h3>Lugar de Nacimento: Cutral-C&oacute; Neuqu&eacute;n Argentina	</h3>
+	
+	<navbar>	
+		<a href="index.html">Inicio</a>
+		||
+		<a href="educacion.html">Educaci&oacute;n</a>
+		||
+		<a href="experiencia.html">Experiencia</a>
+	</navbar>
+	
+		<h2>Información Personal</h2>
+		<p>
+		<img src="img/fotoperfil.jpg" alt="fotoperfil" width="250px" height="200px">
+		</p>
+		<h2> PERFIL</h2>
+		<p>operador de pc, com amplico conocimiento en programas de office</p>
+		<p>tengo nivel intermedio en programas de diseños como photoshop e illustrator</p> 
+		<p>minimo conocimiento en reparacion de pc</p>
+		<ul>
+			<li>ingles basico</li>
+		</ul>
+
+<br>
+		<tfoot> 
+				&copy;copyrigth 2017 Derechos Reservados lucianolop08
+			<ul>
+				<li>correo electronico: luciano800@hotmail.com</li> 
+				<li>telefono: 0299155330300 </li> 
+				<li>facebook: lucianopinon.lopez</li> 
+				<li>direcion A.Majluf 98 ARG </li>
+			</ul>
+		</tfoot>
+</body>
+</html>
